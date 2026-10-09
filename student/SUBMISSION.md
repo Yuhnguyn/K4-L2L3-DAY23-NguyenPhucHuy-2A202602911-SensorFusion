@@ -8,7 +8,7 @@
 - MSSV: 2A202602911
 - Email: huy7a2004@gmail.com
 - Link repo (fork): https://github.com/Yuhnguyn/K4-Track4-Day23-NguyenPhucHuy-2A202602911-Sensor-Fusion-Student
-- Commit hash nộp (`git rev-parse HEAD`): 104bb3b
+- Commit hash nộp (`git rev-parse HEAD`): 71c5f94
 
 ## Tóm tắt kết quả
 
